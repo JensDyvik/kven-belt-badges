@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32mm"
+   height="40mm"
+   viewBox="0 0 32 40"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="flatvollkors.svg"
+   inkscape:export-filename="C:\Projects\Production work\Haakon\Produksjon runde 1\Img\flatvollkors-displacement-map.png"
+   inkscape:export-xdpi="1200.1458"
+   inkscape:export-ydpi="1200.1458"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.7119792"
+     inkscape:cx="86.83695"
+     inkscape:cy="92.183599"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     inkscape:snap-global="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="White background"
+     sodipodi:insensitive="true">
+    <rect
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="rect1409"
+       width="32"
+       height="40"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Artwork"
+     style="display:inline">
+    <rect
+       class="BoundingBox"
+       stroke="none"
+       fill="none"
+       x="2.5219045"
+       y="4.617105"
+       width="26.868986"
+       height="26.747328"
+       id="rect12174"
+       style="stroke-width:0.00868984" />
+    <path
+       fill="none"
+       stroke="#1b1918"
+       stroke-width="0.0868984"
+       stroke-linejoin="miter"
+       d="m 2.5914231,17.860421 4.6925136,-4.622994 c 1.5467915,1.512032 3.7018723,2.997994 5.3181823,1.451203 1.798797,-1.850936 0.330214,-3.971257 -1.260027,-5.5006689 l 4.657754,-4.510027 4.683824,4.5882355 c -2.042112,2.0681824 -2.945856,3.7540114 -1.512032,5.3703214 1.798797,1.564171 3.536765,0.495321 5.483289,-1.338236 l 4.657754,4.831551 -4.692513,4.492648 c -1.268717,-1.286097 -3.597594,-2.832888 -5.213904,-1.277407 -1.607621,1.555482 -0.278075,3.858289 1.199197,5.239974 l -4.735962,4.701203 -4.666444,-4.588235 C 12.862814,25.116438 14.1576,22.718042 12.654258,21.18863 11.098776,19.693978 8.8394181,20.858416 7.2231078,22.587694 Z"
+       id="path12176"
+       style="stroke-width:0.34;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-linejoin:round" />
+    <g
+       class="com.sun.star.drawing.ClosedBezierShape"
+       id="g12262"
+       transform="matrix(0.00868984,0,0,0.00868984,-250.87383,-14.596131)">
+      <g
+         id="id141">
+        <rect
+           class="BoundingBox"
+           stroke="none"
+           fill="none"
+           x="29489"
+           y="2555"
+           width="2370"
+           height="2359"
+           id="rect12255" />
+        <path
+           fill="#1b1918"
+           stroke="none"
+           d="m 29497,3723 266,-254 c 136,133 502,155 645,18 158,-163 155,-555 14,-689 l 256,-236 304,306 c -179,182 -151,473 -25,615 158,137 463,165 634,4 l 259,260 -248,244 c -111,-113 -468,-143 -610,-5 -142,137 -180,515 -51,637 l -275,282 -259,-258 c 145,-139 162,-506 29,-641 -137,-132 -491,-146 -634,6 z"
+           id="path12257" />
+        <path
+           fill="none"
+           stroke="#1b1918"
+           stroke-width="10"
+           stroke-linejoin="miter"
+           d="m 29497,3723 266,-254 c 136,133 502,155 645,18 158,-163 155,-555 14,-689 l 256,-236 304,306 c -179,182 -151,473 -25,615 158,137 463,165 634,4 l 259,260 -248,244 c -111,-113 -468,-143 -610,-5 -142,137 -180,515 -51,637 l -275,282 -259,-258 c 145,-139 162,-506 29,-641 -137,-132 -491,-146 -634,6 z"
+           id="path12259" />
+      </g>
+    </g>
+    <g
+       class="com.sun.star.drawing.TextShape"
+       id="g13542"
+       transform="matrix(0.00868984,0,0,0.00868984,-250.97363,-14.595853)">
+      <g
+         id="id283">
+        <rect
+           class="BoundingBox"
+           stroke="none"
+           fill="none"
+           x="29328"
+           y="5546"
+           width="5565"
+           height="396"
+           id="rect13531" />
+        <text
+           class="TextShape"
+           id="text13539"><tspan
+             class="TextParagraph"
+             font-family="'Arial Rounded MT Bold'"
+             font-size="353px"
+             font-weight="400"
+             id="tspan13537"><tspan
+               class="TextPosition"
+               x="29328"
+               y="5864"
+               id="tspan13535"><tspan
+                 fill="#1b1918"
+                 stroke="none"
+                 id="tspan13533">FLATVOLLKORS</tspan></tspan></tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:label="Frame"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       id="rect868"
+       style="fill:#000000;stroke:none;stroke-width:1.72726;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+       d="M 0,0 V 151.18164 H 120.94531 V 0 Z m 15.117188,4.1582031 h 90.708982 c 6.07219,0 10.96094,4.8867952 10.96094,10.9589849 V 136.0625 c 0,6.07219 -4.88875,10.96094 -10.96094,10.96094 H 15.117188 c -6.0721897,0 -10.9589849,-4.88875 -10.9589849,-10.96094 V 15.117188 c 0,-6.0721897 4.8867952,-10.9589849 10.9589849,-10.9589849 z"
+       transform="scale(0.26458333)" />
+  </g>
+</svg>
